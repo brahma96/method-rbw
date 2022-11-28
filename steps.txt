@@ -1,0 +1,6 @@
+Left 
+Right
+Up
+Down
+
+These are the steps.
